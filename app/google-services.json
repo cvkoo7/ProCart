@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162319926182",
+    "project_id": "procart-5a4ad",
+    "storage_bucket": "procart-5a4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162319926182:android:29ed3d91ab371b90c18567",
+        "android_client_info": {
+          "package_name": "com.horizon.procart.procart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162319926182-52p5k9vk3h8554labdfsgfdc737ugr7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqnjUpfBHh_PT94bGlRiPyJ_EdO-uQSNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162319926182-52p5k9vk3h8554labdfsgfdc737ugr7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
